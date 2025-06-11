@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hrg9e5rd5-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/hrg9e5rd5-python
